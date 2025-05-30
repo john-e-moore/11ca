@@ -14,7 +14,7 @@ export default function Home() {
         Custom Chair Upholstery
       </h1>
       <p className="max-w-prose text-lg text-gray-600">
-        Let's add some fun to your living space!
+        Let&apos;s add some fun to your living space!
       </p>
       <a
         href="mailto:mrs.moore531@gmail.com"
