@@ -16,7 +16,7 @@ export default function About() {
         />
         <p className="text-gray-700 leading-relaxed">
           Hi, I&apos;m <span className="font-semibold">Kristen</span>, the
-          sole craftswoman behind 11 Chair Avenue. 
+          craftswoman behind 11 Chair Avenue. 
           <br />
           <br />
           With a passion for breathing
