@@ -11,13 +11,13 @@ export default function Home() {
         className="rounded-full"
       />
       <h1 className="text-4xl font-bold">
-        Custom Chair Upholstery &amp; Restoration
+        Custom Chair Upholstery
       </h1>
       <p className="max-w-prose text-lg text-gray-600">
-        Transforming beloved chairs into timeless pieces, one stitch at a time.
+        Let's add some fun to your living space!
       </p>
       <a
-        href="mailto:hello@11chairavenue.com"
+        href="mailto:mrs.moore531@gmail.com"
         className="inline-block px-5 py-3 bg-gray-900 text-white rounded-lg hover:bg-gray-700 transition-colors"
       >
         Get a Quote

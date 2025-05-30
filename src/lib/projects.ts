@@ -23,7 +23,7 @@ export interface Project {
       slug: "princess-chair",
       title: "Princess Chair",
       description:
-        "Chair made for my neice that she calls her 'princess chair'.",
+        "Chair made for my niece that she calls her 'princess chair'.",
       cover: "/images/projects/princess-chair/princess1.png",
       images: [
         "/images/projects/princess-chair/princess1.png",

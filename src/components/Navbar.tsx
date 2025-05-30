@@ -24,7 +24,7 @@ export function Navbar() {
     <nav className="w-full border-b bg-white">
       <div className="container mx-auto flex items-center justify-between px-4 py-3">
         <Link href="/" className="flex items-center space-x-2">
-          <Image src="/images/logo.png" alt="Logo" width={32} height={32} />
+          <Image src="/images/logo_transparent.png" alt="Logo" width={32} height={32} />
           <span className="text-lg font-semibold">11 Chair Avenue</span>
         </Link>
         <div className="flex space-x-2">

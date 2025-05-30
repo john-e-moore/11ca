@@ -9,8 +9,7 @@ export default function Gallery() {
     <div className="space-y-6">
       <h1 className="text-3xl font-bold">Project Gallery</h1>
       <p className="text-gray-600">
-        Browse a selection of recent upholstery transformations. Click a project
-        to see more images.
+        Click a project to see more images.
       </p>
       <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {projects.map((project) => (

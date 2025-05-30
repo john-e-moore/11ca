@@ -5,7 +5,7 @@ export const metadata = { title: "About | 11 Chair Avenue" };
 export default function About() {
   return (
     <div className="space-y-6">
-      <h1 className="text-3xl font-bold">About the Upholsterer</h1>
+      <h1 className="text-3xl font-bold">About Me</h1>
       <div className="flex flex-col md:flex-row items-center md:space-x-8 space-y-4 md:space-y-0">
         <Image
           src="/images/owner.png"
@@ -15,13 +15,16 @@ export default function About() {
           className="rounded-2xl object-cover"
         />
         <p className="text-gray-700 leading-relaxed">
-          Hi, I&apos;m <span className="font-semibold">[Owner Name]</span>, the
-          sole craftswoman behind 11 Chair Avenue. With a passion for breathing
-          new life into well‑loved furniture, I specialize in meticulous
-          hand‑stitched upholstery that respects each chair&apos;s unique story.
+          Hi, I&apos;m <span className="font-semibold">Kristen</span>, the
+          sole craftswoman behind 11 Chair Avenue. 
+          <br />
+          <br />
+          With a passion for breathing
+          new life into well‑loved furniture, I specialize in
+          hand‑stitched upholstery that respects each chair&apos;s unique story. 
           Every project is a collaboration—I listen to your vision and use
           premium fabrics and traditional techniques to create heirloom pieces
-          that fit perfectly into your space and lifestyle.
+          that fit perfectly into your space and lifestyle. 
         </p>
       </div>
       <div className="pt-4">
@@ -33,7 +36,7 @@ export default function About() {
               href="mailto:hello@11chairavenue.com"
               className="text-blue-600 underline"
             >
-              hello@11chairavenue.com
+              mrs.moore531@gmail.com
             </a>
           </li>
           <li>
