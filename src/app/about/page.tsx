@@ -33,10 +33,10 @@ export default function About() {
           <li>
             Email: {" "}
             <a
-              href="mailto:hello@11chairavenue.com"
+              href="mailto:11chairavenue@gmail.com"
               className="text-blue-600 underline"
             >
-              mrs.moore531@gmail.com
+              11chairavenue@gmail.com
             </a>
           </li>
           <li>
